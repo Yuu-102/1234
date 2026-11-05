@@ -9,3 +9,6 @@ def hello_1():
 
 def hello_7():
     print('1234567')
+
+def hello_8():
+    print('1234567')
