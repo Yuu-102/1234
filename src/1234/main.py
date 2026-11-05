@@ -6,3 +6,6 @@ def nice():
 
 def hello_1():
     print('123456')
+
+def hello_7():
+    print('1234567')
